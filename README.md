@@ -1,2 +1,3 @@
 # hello-world
-Repositorio de iniciación a Git-hub
+Hola pequeños dinosaurios del bosque. Yo soy Batman.
+Me gustan los dinoplatívolos. Viva Alo.
